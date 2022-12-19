@@ -1,0 +1,50 @@
+index,sci,scii,sciii,sciv,scv,scvi,scvii,scviii,scix,scx,scxi,scxii,asinindex
+3,Books[283155],Subjects[1000],Religion & Spirituality[22],Earth-Based Religions[12472],Wicca[12484],,0,0,0,0,0,0,2
+4,Books[283155],Subjects[1000],Religion & Spirituality[22],Earth-Based Religions[12472],Witchcraft[12486],,0,0,0,0,0,0,2
+5,Books[283155],Subjects[1000],Home & Garden[48],Crafts & Hobbies[5126],General[5144],,0,0,0,0,0,0,3
+6,Books[283155],Subjects[1000],Religion & Spirituality[22],Christianity[12290],Reference[172810],,Commentaries[12155],New Testament[12159],0,0,0,0,4
+7,Books[283155],Subjects[1000],Religion & Spirituality[22],Christianity[12290],Christian Living[12333],,Discipleship[12335],0,0,0,0,0,4
+8,Books[283155],Subjects[1000],Religion & Spirituality[22],Christianity[12290],Bibles[12059],,Translations[764432],Life Application[572080],0,0,0,0,4
+9,Books[283155],Subjects[1000],Religion & Spirituality[22],Bible & Other Sacred Texts[12056],Bible[764430],,New Testament[572082],0,0,0,0,0,4
+10,Books[283155],Subjects[1000],Religion & Spirituality[22],Christianity[12290],Bibles[12059],,"Study Guides, History & Reference[764438]",General[572094],0,0,0,0,4
+11,Books[283155],Subjects[1000],Religion & Spirituality[22],Christianity[12290],Worship & Devotion[12465],,Prayerbooks[12470],0,0,0,0,0,5
+12,Books[283155],Subjects[1000],Religion & Spirituality[22],Christianity[12290],Christian Living[12333],,Business[297488],0,0,0,0,0,5
+13,Books[283155],Subjects[1000],Arts & Photography[1],Photography[2020],Photo Essays[2082],,0,0,0,0,0,0,6
+14,Books[283155],Subjects[1000],History[9],Americas[4808],United States[4853],,General[4870],0,0,0,0,0,6
+15,Books[283155],Subjects[1000],History[9],Jewish[4992],General[4993],,0,0,0,0,0,0,6
+16,Books[283155],Subjects[1000],Nonfiction[53],Social Sciences[11232],Sociology[11288],,Urban[11296],0,0,0,0,0,6
+17,[172282],Categories[493964],Camera & Photo[502394],Photography Books[733540],Photo Essays[733676],,0,0,0,0,0,0,6
+18,Music[5174],Styles[301668],Jazz[34],General[63926],0,,0,0,0,0,0,0,7
+19,Music[5174],Styles[301668],Jazz[34],Modern Postbebop[63929],0,,0,0,0,0,0,0,7
+20,Music[5174],Specialty Stores[468040],Imports[701208],Jazz[916554],0,,0,0,0,0,0,0,7
+21,Books[283155],Subjects[1000],Gay & Lesbian[301889],Nonfiction[10703],General[10716],,0,0,0,0,0,0,8
+22,Books[283155],Subjects[1000],Nonfiction[53],Crime & Criminals[11003],Criminology[11005],,0,0,0,0,0,0,8
+23,Books[283155],Subjects[1000],Nonfiction[53],Politics[11079],General[11083],,0,0,0,0,0,0,8
+24,Books[283155],Subjects[1000],Nonfiction[53],Politics[11079],U.S.[11117],,0,0,0,0,0,0,8
+25,Books[283155],Subjects[1000],"Cooking, Food & Wine[6]",Baking[4196],Bread[4197],,0,0,0,0,0,0,9
+26,Books[283155],Subjects[1000],Literature & Fiction[17],History & Criticism[10204],Criticism & Theory[10207],,General[10213],0,0,0,0,0,10
+27,Books[283155],Subjects[1000],Nonfiction[53],Politics[11079],History & Theory[11086],,0,0,0,0,0,0,10
+28,Books[283155],Subjects[1000],Nonfiction[53],Social Sciences[11232],Anthropology[11233],,Cultural[11235],0,0,0,0,0,10
+29,Books[283155],Subjects[1000],"Health, Mind & Body[10]",Alternative Medicine[4696],General[4701],,0,0,0,0,0,0,11
+30,Books[283155],Subjects[1000],Medicine[13996],Alternative & Holistic[14038],General[14046],,0,0,0,0,0,0,11
+31,Books[283155],Subjects[1000],Professional & Technical[173507],Medical[173514],Alternative Medicine[227583],,General[227584],0,0,0,0,0,11
+32,Books[283155],Specialty Stores[504360],jp-unknown2[1061350],0,0,,0,0,0,0,0,0,11
+45,Music[5174],Styles[301668],Jazz[34],General[63926],0,,0,0,0,0,0,0,14
+46,Music[5174],Specialty Stores[468040],Indie Music[266023],Jazz[171246],General[520200],,0,0,0,0,0,0,14
+47,Books[283155],Subjects[1000],Literature & Fiction[17],Drama[2159],United States[2160],,0,0,0,0,0,0,15
+48,Books[283155],Subjects[1000],Arts & Photography[1],Performing Arts[521000],Theater[2154],,General[2218],0,0,0,0,0,15
+49,Books[283155],Subjects[1000],Literature & Fiction[17],"Authors, A-Z[70021]",( B )[70023],,"Bogosian, Eric[70116]",0,0,0,0,0,15
+50,Books[283155],Subjects[1000],History[9],Military[5011],Naval[5018],,0,0,0,0,0,0,16
+51,Books[283155],Subjects[1000],History[9],Military[5011],World War II[5031],,General[465308],0,0,0,0,0,16
+52,Books[283155],Subjects[1000],History[9],Military[5011],World War II[5031],,Naval[465318],0,0,0,0,0,16
+53,Books[283155],Subjects[1000],Business & Investing[3],Management & Leadership[2675],Management[2683],,0,0,0,0,0,0,17
+54,Books[283155],Subjects[1000],Computers & Internet[5],Hardware[549652],Microprocessors & System Design[3723],,General[3731],0,0,0,0,0,17
+55,Books[283155],Subjects[1000],Engineering[13643],General[13756],0,,0,0,0,0,0,0,17
+56,Books[283155],Subjects[1000],Engineering[13643],Telecommunications[13809],General[13813],,0,0,0,0,0,0,17
+58,Books[283155],Subjects[1000],Computers & Internet[5],General[657762],0,,0,0,0,0,0,0,17
+59,[265523],Amazon.com Stores[285080],Home & Office[764512],Business & Investing Books[767740],Management & Leadership[767992],,Management[768000],0,0,0,0,0,17
+60,Music[5174],Styles[301668],Jazz[34],General[63926],0,,0,0,0,0,0,0,18
+62,Books[283155],Subjects[1000],Comics & Graphic Novels[4366],Publishers[4396],Marvel[4400],,0,0,0,0,0,0,19
+63,Books[283155],Subjects[1000],Teens[28],Science Fiction & Fantasy[17466],Fantasy[17468],,0,0,0,0,0,0,19
+64,Books[283155],Subjects[1000],Comics & Graphic Novels[4366],Graphic Novels[4390],Superheroes[3825121],,0,0,0,0,0,0,19
+65,Books[283155],Subjects[1000],Medicine[13996],Specialties[225827],Radiology[14403],,General[14407],0,0,0,0,0,20
