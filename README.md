@@ -7,18 +7,20 @@ Problem 1 is solved by creating a web application that can accept queries on the
 
 Problem 2 is handled by the queries provided for each subproblem within the final report.
 1. 
-  1. SELECT Title FROM product WHERE asin = {similar product 1} OR asin =
+    1. SELECT Title FROM product WHERE asin = {similar product 1} OR asin =
 {similar product 2} OR asin = {similar product 3} OR asin = {similar product
 4} OR asin = {similar product 5};
-  2. SELECT customer FROM reviews, product WHERE reviews.asinindex =
+    2. SELECT customer FROM reviews, product WHERE reviews.asinindex =
 product.index AND product.asin = {selected similar product};
+
 2. 
-  1. SELECT asin FROM product WHERE salesrank > {threshold number};
-  2. SELECT Title FROM product WHERE asin = {similar product 1} OR asin =
+    1. SELECT asin FROM product WHERE salesrank > {threshold number};
+    2. SELECT Title FROM product WHERE asin = {similar product 1} OR asin =
 {similar product 2} OR asin = {similar product 3} OR asin = {similar product
 4} OR asin = {similar product 5};
+
 3.
-  1. SELECT Title, asin FROM product, categories WHERE
+    1. SELECT Title, asin FROM product, categories WHERE
 sci="Books[283155]" AND scii = "Subjects[1000]" AND sciii = "Religion &
 Spirituality[22]" GROUP BY Title;
 
