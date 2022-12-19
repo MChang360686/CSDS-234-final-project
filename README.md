@@ -6,6 +6,7 @@ Sample data to populate the database has been provided in the folder data-used. 
 Problem 1 is solved by creating a web application that can accept queries on the data given
 
 Problem 2 is handled by the queries provided for each subproblem within the final report.
+
 1. 
   - SELECT Title FROM product WHERE asin = {similar product 1} OR asin =
 {similar product 2} OR asin = {similar product 3} OR asin = {similar product
